@@ -1,6 +1,6 @@
 ## About me
 
-I am a master's student at UIC majoring in Computer Science. My interets are in Data Science and in application of Machine Learning on structured and non-structured data such as images, videos and text.
+I am a master's student at UIC majoring in Computer Science. My interests are in Data Science and in application of Machine Learning on structured and non-structured data such as images, videos and text.
 
 I am a candidate with demonstrated strong analytical, critical thinking and communication skills with 3 years of work experience in mobile app development. I have a coursework experience in machine learning, deep learning, data science, natural language processing and computer vision.
 
