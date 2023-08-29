@@ -2,7 +2,7 @@
 
 I am a master's degree graduate from UIC in Computer Science. My interests are in Data Science and in application of Machine Learning on structured and non-structured data such as images, videos and text.
 
-I am a candidate with demonstrated strong analytical, critical thinking and communication skills with 3.5 years of work experience in Mobile App Development and Machine Learning. And an additional 6 months of professional & coursework experience in machine learning, deep learning, data science, natural language processing and computer vision.
+I am a candidate with demonstrated strong analytical, critical thinking and communication skills with 3 years of work experience in Mobile App Development and Machine Learning. And an additional 6 months of professional & coursework experience in machine learning, deep learning, data science, natural language processing and computer vision.
 
 Following are the list of my completed and ongoing relevant projects:
 <!-- - Currently, researching on how to improve the state of the art in performance of action segmentation on videos under unsupervised setting. -->
